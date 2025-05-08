@@ -120,7 +120,6 @@ Implements randomized touch gestures, adaptive delays, and live session monitori
 
 
 ### 📊 Key Stats
-- Active on **100+ Android devices**
 - Executes **millions of actions** monthly
 - Operates with **<1% detection rate**
 - Manages **hundreds of accounts** simultaneously
