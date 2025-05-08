@@ -2,6 +2,8 @@
 
 A high-performance automation bot for Instagram, built for real Android devices. This advanced bot simulates natural user behavior—automatically messaging, following, commenting, and viewing stories across multiple cloned accounts. Designed for scale, it integrates with a centralized dashboard for campaign control, targeting, and performance analytics.
 
+We’re the team behind Appilot. We’ve helped hundreds of businesses automate their social media with custom bots and automations, smart behavior simulations, and plug-and-play solutions. Our pricing is flexible; we offer competitive flat rates or performance-based options depending on your goals.
+
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/f043bc58-3e3a-4a64-bc78-d6283644921c"
