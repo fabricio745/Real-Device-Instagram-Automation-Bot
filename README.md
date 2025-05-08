@@ -23,12 +23,9 @@ A high-performance automation bot for Instagram, built for real Android devices.
 
 ### 🔁 Full-Spectrum Instagram Automation
 Automates DMs, follows, comments, likes, and story views with human-like precision for realistic, undetectable engagement.
-##
 
 ### 📱 Runs on Real Android Devices & Emulators
 Supports both real devices and emulators, orchestrated via cloud infrastructure for massive scaling.
-
-##
 
 ### 🧠 Engineered for Realism, Scale & Stealth
 Implements randomized touch gestures, adaptive delays, and live session monitoring to avoid detection.
@@ -72,6 +69,9 @@ Implements randomized touch gestures, adaptive delays, and live session monitori
 </div>
 
 <div align="center">
+<strong> Have a Custom Project in Mind please Contact?</strong>
+
+<div align="center">
   <a href="mailto:support@appilot.app">
   <img
     alt="Email"
@@ -91,9 +91,7 @@ Implements randomized touch gestures, adaptive delays, and live session monitori
 </a>
 <span>
 
-
-<strong>📩 Have a Custom Project in Mind please Contact?</strong>
-</div>
+<div align="left">
 
 ## ⚙️Features
 
@@ -129,6 +127,7 @@ Implements randomized touch gestures, adaptive delays, and live session monitori
 ### 🧠 Built by Appilot
 This bot is developed and maintained by the team behind [Appilot](https://www.appilot.com) — a powerful automation platform built for real mobile devices (Android & iOS) and emulators.
 Appilot powers automation for over 70,000 devices, enabling safe, scalable control over Instagram, Reddit, TikTok, and more — all without ADB or wires. Our web-based dashboard lets you automate your devices from anywhere, anytime.
+
 We are a professional automation team offering custom mobile bot development for Instagram and other platforms, using real Android/iOS devices and emulators, just real results.
 
 
